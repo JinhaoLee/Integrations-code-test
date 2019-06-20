@@ -42,6 +42,14 @@ Press F5 key or On the menu bar, choose Debug > Start Debugging
 Integration/bin/Debug/athletes.json
 ```
 
+
+## Setup for Unit tests
+#### Create a "athletes.csv" file with following content in the directory "UnitTest/bin/Debug/athletes.csv".
+```sh
+Bob,Smith,John,30/08/1990,M,1.83,basketball
+Sam,Peters,,21/6/2000,F,1.79,rowing
+```
+
 ## Author
 
 👤 **Jinhao Li**
